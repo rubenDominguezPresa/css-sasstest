@@ -1,7 +1,10 @@
+$footerColor:#333333;
+$textColor: white;
+
 footer{
-	background-color: #333333;
+	background-color: $footerColor;
     width: 100%;
     padding: 15px;
-    color: white;
+    color: $textColor;
     text-align: center;
 }

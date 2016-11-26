@@ -7320,15 +7320,15 @@ button.close {
   /* line 18, ../sass/bootstrap/mixins/_responsive-visibility.scss */
   .hidden-print {
     display: none !important; } }
-/* line 1, ../sass/_header.scss */
+/* line 3, ../sass/_header.scss */
 header {
   content: center; }
 
-/* line 4, ../sass/_header.scss */
+/* line 6, ../sass/_header.scss */
 body {
   margin: 10px; }
 
-/* line 8, ../sass/_header.scss */
+/* line 10, ../sass/_header.scss */
 nav {
   border: 1px solid #0A77E9;
   display: flex;
@@ -7349,7 +7349,7 @@ nav {
   align-items: center;
   /*align-items: baseline; */ }
 
-/* line 29, ../sass/_header.scss */
+/* line 31, ../sass/_header.scss */
 .item {
   color: white;
   font-family: sans-serif;
@@ -7358,13 +7358,13 @@ nav {
   margin: 5px;
   border-radius: 6px; }
 
-/* line 37, ../sass/_header.scss */
+/* line 39, ../sass/_header.scss */
 .topImage {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 15px; }
 
-/* line 1, ../sass/_article.scss */
+/* line 2, ../sass/_article.scss */
 .row {
   display: flex;
   /*   flex-direction: row; */
@@ -7383,21 +7383,19 @@ nav {
   align-items: center;
   /*align-items: baseline; */ }
 
-/* line 20, ../sass/_article.scss */
+/* line 21, ../sass/_article.scss */
 section {
   font-family: sans-serif;
   /*background: #e90a48;*/
   padding: 15px 15px 15px 15px;
   margin: 5px;
-  border-radius: 6px;
-  border-color: red;
-  border: 10px; }
+  border-radius: 6px; }
 
-/* line 30, ../sass/_article.scss */
+/* line 29, ../sass/_article.scss */
 .articleImage {
   /*width: 50%;*/ }
 
-/* line 1, ../sass/_footer.scss */
+/* line 4, ../sass/_footer.scss */
 footer {
   background-color: #333333;
   width: 100%;
